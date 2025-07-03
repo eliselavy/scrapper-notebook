@@ -1,4 +1,11 @@
-# ADA-DHOxSS2019
+# Scrapper notebook
+
+## Scrapper for the early cinema database
+
+## Scrapper for the archives du spectacles
+
+## Teaching materials for the Applied Data Analysis (ADA) workshop at DHOxSS 2019.
+
 Teaching materials for the Applied Data Analysis (ADA) workshop at DHOxSS 2019.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master)
